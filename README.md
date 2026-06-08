@@ -72,12 +72,13 @@ DESIGN & MEDIA
 
 # ⚔️ DEVELOPMENT LOADOUT
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/Nuwii527/assets/main/logo.png" width="120"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,mysql,lua,github,vscode,blender&perline=5" />
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,mysql,github,vscode,blender,discord,ps,pr,unreal,coadwalkr&perline=5" />
 
 </div>
-
 ---
 
 # 🏆 ACHIEVEMENTS UNLOCKED
@@ -207,11 +208,11 @@ GITHUB: github.com/Nuwii527
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=MISSION+IN+PROGRESS...;THANKS+FOR+VISITING+MY+PROFILE;SEE+GOOD+LUCK!;KEEP+BUILDING+KEEP+LEARNING+🚀">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=MISSION+IN+PROGRESS...;THANKS+FOR+VISITING+MY+PROFILE;GOOD+LUCK!;KEEP+BUILDING+KEEP+LEARNING+🚀">
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0066FF,100:00E5FF&text=text=W.H.Tharindu%20N%20Kumarasiri&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0066FF,100:00E5FF&text=Thank%20you..!&section=footer"/>
 
 ```
 ```
