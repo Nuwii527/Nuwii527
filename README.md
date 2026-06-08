@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00E5FF,100:0066FF&text=W.H.Tharindu%20N%20Kumarasiri&reversal=false&section=header&fontSize=60&fontAlign=50&fontAlignY=40&fontColor=000000" />
@@ -17,12 +16,10 @@
 
 # 🎮 LOS SANTOS ROLEPLAY DEVELOPMENT COMMAND
 
-```yaml
 NAME: W.H. THARINDU N. KUMARASIRI
-USERNAME: NUWII527
+GITHUB USERNAME: NUWII527
 LOCATION: SRI LANKA 🇱🇰
-STATUS: ONLINE 🟢
-RANK: SENIOR FIVEM DEVELOPMENT SPECIALIST
+
 SPECIALIZATION:
   - Police MDT Systems
   - EMS MDT Systems
@@ -32,46 +29,29 @@ SPECIALIZATION:
   - Vehicle Development
   - Discord Bot Development
   - Web Development
-````
-
----
-
-# 🚓 GTA V ROLEPLAY DEVELOPER CARD
-
-```yaml
-CALLSIGN: DEV-527
-FACTION: LOS SANTOS DEVELOPMENT UNIT
-CLEARANCE LEVEL: MAXIMUM
-XP LEVEL: 27
-MISSION STATUS: ACTIVE
-```
-
----
 
 # 🌳 DEVELOPMENT SKILL TREE
 
-```text
 WEB DEVELOPMENT
-├── HTML          ██████████ 100%
+├── HTML          █████░░░░░ 80%
 ├── CSS           █████████░ 90%
 ├── JavaScript    ████████░░ 80%
 ├── Node.js       ███████░░░ 70%
 └── MySQL         ███████░░░ 70%
 
 FIVEM DEVELOPMENT
-├── Lua           █████████░ 90%
-├── Custom UI     ██████████ 100%
-├── MDT Systems   ██████████ 100%
-├── CAD Systems   ██████████ 100%
+├── Lua           ████░░░░░░ 60%
+├── Custom UI     █████████░ 90%
+├── MDT Systems   ████░░░░░░ 60%
+├── CAD Systems   ████░░░░░░ 60%
 ├── Vehicle Packs ████████░░ 80%
-└── MLO Mapping   ██████████ 100%
+└── MLO Mapping   ████░░░░░░ 60%
 
 DESIGN & MEDIA
 ├── Blender       █████████░ 90%
 ├── Photoshop     █████████░ 90%
 ├── Premiere Pro  ████████░░ 80%
 └── Graphic Design██████████ 100%
-```
 
 ---
 
@@ -87,7 +67,6 @@ DESIGN & MEDIA
 
 # 🏆 ACHIEVEMENTS UNLOCKED
 
-```diff
 + Police MDT Developed
 + EMS MDT Developed
 + CAD System Developed
@@ -98,7 +77,6 @@ DESIGN & MEDIA
 + Vehicle Pack Projects Completed
 + Professional Websites Developed
 + Graphic Design Projects Completed
-```
 
 ---
 
@@ -238,11 +216,9 @@ DESIGN & MEDIA
 
 # 📧 CONTACT TERMINAL
 
-```yaml
 EMAIL: tharindunuwan527k@gmail.com
 DISCORD: sh_nuwa
 GITHUB: github.com/Nuwii527
-```
 
 ---
 
