@@ -210,7 +210,7 @@ GITHUB: github.com/Nuwii527
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0066FF,100:00E5FF&text=Thank%20you..!&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0066FF,100:00E5FF&section=footer"/>
 
 ```
 ```
