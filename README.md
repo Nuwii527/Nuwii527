@@ -14,10 +14,14 @@
 
 ---
 
-  NAME: W.H. THARINDU N. KUMARASIRI
-  GITHUB USERNAME: NUWII527
-  LOCATION: SRI LANKA 🇱🇰
-  COTACT NO. : 076 7254 167
+NAME: W.H. THARINDU N. KUMARASIRI
+
+GITHUB USERNAME: NUWII527
+
+LOCATION: SRI LANKA 🇱🇰
+
+COTACT NO. : 076 7254 167
+
 
 SPECIALIZATION:
   - Police MDT Systems
@@ -33,24 +37,36 @@ SPECIALIZATION:
 
 WEB DEVELOPMENT
 ├── HTML          █████░░░░░ 80%
+
 ├── CSS           █████████░ 90%
+
 ├── JavaScript    ████████░░ 80%
+
 ├── Node.js       ███████░░░ 70%
+
 └── MySQL         ███████░░░ 70%
 
 FIVEM DEVELOPMENT
 ├── Lua           ████░░░░░░ 60%
+
 ├── Custom UI     █████████░ 90%
+
 ├── MDT Systems   ████░░░░░░ 60%
+
 ├── CAD Systems   ████░░░░░░ 60%
+
 ├── Vehicle Packs ████████░░ 80%
+
 └── MLO Mapping   ████░░░░░░ 60%
 
 DESIGN & MEDIA
 ├── Blender       █████████░ 90%
+
 ├── Photoshop     █████████░ 90%
+
 ├── Premiere Pro  ████████░░ 80%
-└── Graphic Design██████████ 100%
+
+└── Graphic Design████████░░ 80%
 
 ---
 
@@ -92,53 +108,11 @@ DESIGN & MEDIA
 
 ---
 
-# 📊 COMMAND CENTER
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nuwii527&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuwii527&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 🔥 DEVELOPMENT STREAK
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Nuwii527&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏅 TROPHY ROOM
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nuwii527&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
-# 📈 CONTRIBUTION GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nuwii527&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
@@ -233,11 +207,11 @@ GITHUB: github.com/Nuwii527
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=MISSION+IN+PROGRESS...;THANKS+FOR+VISITING+MY+PROFILE;SEE+YOU+IN+LOS+SANTOS+🚓;KEEP+BUILDING+KEEP+LEARNING+🚀">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=MISSION+IN+PROGRESS...;THANKS+FOR+VISITING+MY+PROFILE;SEE+GOOD+LUCK!;KEEP+BUILDING+KEEP+LEARNING+🚀">
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0066FF,100:00E5FF&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0066FF,100:00E5FF&text=text=W.H.Tharindu%20N%20Kumarasiri&section=footer"/>
 
 ```
 ```
