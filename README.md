@@ -72,10 +72,6 @@ DESIGN & MEDIA
 
 # ⚔️ DEVELOPMENT LOADOUT
 
-<img src="https://raw.githubusercontent.com/Nuwii527/assets/main/logo.png" width="120"/>
-
-<br><br>
-
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,mysql,github,vscode,blender,discord,ps,pr,unreal,coadwalkr&perline=5" />
 
 </div>
