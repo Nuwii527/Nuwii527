@@ -22,8 +22,7 @@ COTACT NO. : 076 7254 167
 
 
 SPECIALIZATION:
-  - Police MDT Systems
-  - EMS MDT Systems
+  - RP MDT Systems
   - CAD Systems
   - FiveM UI Design
   - MLO Mapping
@@ -34,6 +33,7 @@ SPECIALIZATION:
 # 🌳 DEVELOPMENT SKILL TREE
 
 WEB DEVELOPMENT
+
 ├── HTML          █████░░░░░ 80%
 
 ├── CSS           █████████░ 90%
@@ -45,6 +45,7 @@ WEB DEVELOPMENT
 └── MySQL         ███████░░░ 70%
 
 FIVEM DEVELOPMENT
+
 ├── Lua           ████░░░░░░ 60%
 
 ├── Custom UI     █████████░ 90%
@@ -58,6 +59,7 @@ FIVEM DEVELOPMENT
 └── MLO Mapping   ████░░░░░░ 60%
 
 DESIGN & MEDIA
+
 ├── Blender       █████████░ 90%
 
 ├── Photoshop     █████████░ 90%
